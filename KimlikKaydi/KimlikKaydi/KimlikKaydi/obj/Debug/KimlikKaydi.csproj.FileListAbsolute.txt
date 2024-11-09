@@ -1,0 +1,10 @@
+D:\repos\KimlikKaydi\KimlikKaydi\KimlikKaydi\bin\Debug\KimlikKaydi.exe.config
+D:\repos\KimlikKaydi\KimlikKaydi\KimlikKaydi\bin\Debug\KimlikKaydi.exe
+D:\repos\KimlikKaydi\KimlikKaydi\KimlikKaydi\bin\Debug\KimlikKaydi.pdb
+D:\repos\KimlikKaydi\KimlikKaydi\KimlikKaydi\obj\Debug\KimlikKaydi.csproj.AssemblyReference.cache
+D:\repos\KimlikKaydi\KimlikKaydi\KimlikKaydi\obj\Debug\KimlikKaydi.Form1.resources
+D:\repos\KimlikKaydi\KimlikKaydi\KimlikKaydi\obj\Debug\KimlikKaydi.Properties.Resources.resources
+D:\repos\KimlikKaydi\KimlikKaydi\KimlikKaydi\obj\Debug\KimlikKaydi.csproj.GenerateResource.cache
+D:\repos\KimlikKaydi\KimlikKaydi\KimlikKaydi\obj\Debug\KimlikKaydi.csproj.CoreCompileInputs.cache
+D:\repos\KimlikKaydi\KimlikKaydi\KimlikKaydi\obj\Debug\KimlikKaydi.exe
+D:\repos\KimlikKaydi\KimlikKaydi\KimlikKaydi\obj\Debug\KimlikKaydi.pdb
